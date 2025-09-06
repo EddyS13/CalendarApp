@@ -6,7 +6,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-	"site": "calendar-app-ad298",
+    "site": "calendar-app-ad298",
     "public": "public",
     "ignore": [
       "firebase.json",
