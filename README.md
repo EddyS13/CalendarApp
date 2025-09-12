@@ -1,0 +1,1 @@
+This project was a test to see what can be done with AI Vibe Coding in response to a Calendar project that was being worked on at work. This calendar was built in less than 4 hours and was tweaked to look nearly identical to the calendar project at work. That project took that developer over 4 months to create.
